@@ -1,0 +1,6 @@
+// Tasks
+
+*Main*
+ Add geometrick progress for price build
+ Add events for game(golden apple)
+ Add Statistics
